@@ -11,8 +11,3 @@ Below is the diagram of the development
 
 # Interface Display
 ![alt text](interface.png)
-
-# The Article 
-The article discussing the process of developing this application:
-
-[RAG and Streamlit Chatbot: Chat with Documents Using LLM](https://www.analyticsvidhya.com/blog/2024/04/rag-and-streamlit-chatbot-chat-with-documents-using-llm/)
